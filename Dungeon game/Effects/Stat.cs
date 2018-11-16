@@ -1,0 +1,5 @@
+﻿enum Stat
+{
+    HP,
+    MP
+}
